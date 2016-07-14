@@ -1,0 +1,14 @@
+layout_spectrum: 0.8766388
+typography_spectrum: 0.9015868
+color:
+  saturation: 0.4615161
+  lightness: 0.8014776
+  brandStrength: 0.01054339
+  rhythmicContrast: 0.4019228
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'KiddFunk '
