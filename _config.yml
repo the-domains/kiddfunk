@@ -1,3 +1,17 @@
+typography_spectrum: 0.3255319
+color:
+  saturation: 0.5425532
+  brandStrength: 1
+  lightness: 0.5744681
+  brandColors:
+    - '#16010A'
+    - '#FE0024'
+    - '#FEFFFB'
+    - '#7F846C'
+    - '#4A48FD'
+  rhythmicContrast: 0.5297872
+layout_spectrum: 0.8766388
+name: 'KiddFunk '
 collections:
   - index:
       path: /
@@ -10,18 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5425532
-  brandStrength: 1
-  lightness: 0.5744681
-  brandColors:
-    - '#16010A'
-    - '#FE0024'
-    - '#FEFFFB'
-    - '#7F846C'
-    - '#4A48FD'
-  rhythmicContrast: 0.5297872
-typography_spectrum: 0.3255319
-layout_spectrum: 0.8766388
-name: 'KiddFunk '
 title: KF Web Site
+description: '#gotstobefunky'
